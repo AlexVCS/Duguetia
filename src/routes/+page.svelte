@@ -5,7 +5,7 @@
 <h1 class="text-center text-xl mt-4 mb-2">What is the Duguetia genus?</h1>
 <figure class="text-center pb-4">
     <img class="mx-auto" src={duguetia_phaeoclados} alt="duguetia phaeoclados plant">
-    <figcaption>Two year old Duguetia phaeoclados plant</figcaption>
+    <figcaption>Two year old Duguetia phaeoclados plant, photo from The Ylang Ylang Tree in St. Petersburg, FL</figcaption>
 </figure>
 <div class="flex justify-center	text-center">
     <p>
