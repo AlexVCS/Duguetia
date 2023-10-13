@@ -32,4 +32,4 @@ After that you can open the project in your text editor of choice. I use Visual 
 
 7. After that finishes, start a development server:
 
-`bun --bun run dev`
+`bun dev`
