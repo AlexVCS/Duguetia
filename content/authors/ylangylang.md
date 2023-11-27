@@ -1,7 +1,7 @@
 ---
 name: The Ylang Ylang Tree
-avatar: /img/ylangylang.jpeg
-occupation: Nursery
+avatar: /img/jon_ga.jpg
+occupation: Nursery operators
 company: The Ylang Ylang Tree
 id: ylangylang
 ---
