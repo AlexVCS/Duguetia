@@ -7,7 +7,7 @@ function __memo(fn) {
 return {
 	appDir: "_app",
 	appPath: "_app",
-	assets: new Set(["admin/config.yml","admin/index.html","favicon.ico","icon-128.png","icon-16.png","icon-256.png","icon-32.png","icon-512.png","img/dinesh.jpg","img/duguetia_phaeoclados.jpg","img/gilfoyle.jpg","img/logo.png","img/piperchat.jpg","img/pipernet.jpg","img/richard.png","img/thebox.png","img/theplatform.jpg","logo.png","logo.svg"]),
+	assets: new Set(["admin/config.yml","admin/index.html","favicon.ico","icon-128.png","icon-16.png","icon-256.png","icon-32.png","icon-512.png","img/dinesh.jpg","img/duguetia_phaeoclados.jpg","img/logo.png","img/piperchat.jpg","img/pipernet.jpg","img/thebox.png","img/theplatform.jpg","logo.png","logo.svg"]),
 	mimeTypes: {".yml":"text/yaml",".html":"text/html",".png":"image/png",".jpg":"image/jpeg",".svg":"image/svg+xml"},
 	_: {
 		client: {"start":"_app/immutable/entry/start.1aa1d48b.js","app":"_app/immutable/entry/app.5a451db2.js","imports":["_app/immutable/entry/start.1aa1d48b.js","_app/immutable/chunks/index.789cc631.js","_app/immutable/chunks/singletons.1170bd12.js","_app/immutable/entry/app.5a451db2.js","_app/immutable/chunks/index.789cc631.js"],"stylesheets":[],"fonts":[]},
