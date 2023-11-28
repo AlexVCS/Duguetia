@@ -11,10 +11,10 @@
 		<div class="mb-3 flex space-x-2">
 			<SocialIcon icon="mail" url={config.email ? `mailto:${config.email}` : ''} />
 			<SocialIcon icon="github" url={config.github} />
-			<SocialIcon icon="facebook" url={config.facebook} />
+			<!-- <SocialIcon icon="facebook" url={config.facebook} />
 			<SocialIcon icon="youtube" url={config.youtube} />
 			<SocialIcon icon="linkedin" url={config.linkedin} />
-			<SocialIcon icon="twitter" url={config.twitter} />
+			<SocialIcon icon="twitter" url={config.twitter} /> -->
 		</div>
 		{#if config.newsletter.provider}
 			<Newsletter />
