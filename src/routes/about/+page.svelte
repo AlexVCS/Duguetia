@@ -32,7 +32,7 @@
 			{#each authors as author}
 				<div class="lg:flex flex-row space-x-3">
 					<div class="grow-0 shrink-0 basis-auto w-full  lg:w-1/3 object-cover">
-						<img src={author.avatar} alt={author.name} class="w-full h-36 rounded-xl mb-4 lg:mb-0" />
+						<img src={author.avatar} alt={author.name} class="w-full lg:h-36 rounded-xl mb-4 lg:mb-0" />
 					</div>
 					<div class="grow-0 shrink-0 basis-auto w-full lg:w-2/3">
 						<h5 class="text-lg font-bold">{author.name}</h5>
