@@ -2,7 +2,7 @@ backend:
   name: [github]
   repo: alexvcs/duguetia
   branch: main
-  base_url: https://duguetia.com/
+  base_url: https://duguetia.vercel.app/
 
 media_folder: static/img # Folder where user uploaded files should go
 public_folder: /img
